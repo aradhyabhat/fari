@@ -1,0 +1,77 @@
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Couldn't fetch data
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\package.js:29:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Couldn't fetch data
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\package.js:29:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'slice' of undefined
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\booking.js:32:29
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error
+    at C:\Users\Swanthana Santhosh\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\booking.js:26:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
